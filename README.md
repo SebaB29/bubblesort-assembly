@@ -13,7 +13,7 @@ Implementar el algoritmo de ordenamiento BubbleSort en lenguaje ensamblador para
 
 ## 🗂️ Archivos del Proyecto
 
-- **`bubbleSort.asm`**: Código fuente con la solución del algoritmo.
+- **`bubble_sort.asm`**: Código fuente con la solución del algoritmo.
 - **Archivos de prueba**:
     - `archivo1.dat`
     - `archivo2.dat`
