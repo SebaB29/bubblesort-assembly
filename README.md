@@ -1,4 +1,4 @@
-# 🖥 Trabajo Práctico: Organización del Computador
+# 🖥 BubbleSort en Assembly
 
 Bienvenido al repositorio del Trabajo Práctico para la materia **Organización del Computador** (9557), donde implementamos el algoritmo de ordenamiento **BubbleSort** en lenguaje ensamblador.
 
